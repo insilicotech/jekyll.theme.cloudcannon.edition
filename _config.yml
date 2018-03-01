@@ -77,3 +77,6 @@ defaults:
 types:
   - minor
   - major
+
+# Server Configuration
+port: 4188
